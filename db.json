@@ -52,20 +52,23 @@
           "id": "x7FjJTEWSDBxYSp4TduY"
         },
         {
-          "createdAt": 1554216210990,
-          "checked": false,
-          "text": "Install Angular Language Service",
-          "updatedAt": 1554216210990,
-          "id": "O5yAYzV9ZcoLcW2gHBPW"
-        },
-        {
           "createdAt": 1554216139580,
           "checked": false,
           "text": "Try Angular Console",
           "updatedAt": 1554216139580,
           "id": "KosV9h7JuLMgCTWgN3jq"
+        },
+        {
+          "createdAt": 1554216210990,
+          "checked": false,
+          "text": "Install Angular Language Service",
+          "updatedAt": 1554216210990,
+          "id": "O5yAYzV9ZcoLcW2gHBPW"
         }
-      ]
+      ],
+      "profile": {
+        "name": "typicode"
+      }
     }
   }
 }
